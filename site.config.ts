@@ -2,12 +2,12 @@ import { siteConfig } from './lib/site-config'
 
 export default siteConfig({
   // the site's root Notion page (required)
-  rootNotionPageId: '7875426197cf461698809def95960ebf',
+  rootNotionPageId: 'a48712c145ca45f0bd23cc9031f81a39',
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
   // notionid 霸王龙
-  rootNotionSpaceId: a48712c145ca45f0bd23cc9031f81a39,
+  rootNotionSpaceId: null,
 
   // basic site info (required)
   name: '霸王龙布拉格',
